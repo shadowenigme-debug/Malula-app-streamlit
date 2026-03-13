@@ -213,9 +213,9 @@ def show_citation ():
     markdown ("# <u>Citation</u>", unsafe_allow_html=True)
     image ("citation1.jpg", caption= "Citation Malula", width= 400)
     image ("citation2.jpg", caption= "Citation Malula", width= 400)
-    image ("citation 3.jpg", caption= "Citation Malula", width= 400)
+    image ("citation3.jpg", caption= "Citation Malula", width= 400)
     image ("citation4.jpg", caption= "Citation Malula", width= 400)
-    image ("citation 5.jpg", caption= "Citation Malula", width= 400)
+    image ("citation5.jpg", caption= "Citation Malula", width= 400)
 
 
 
