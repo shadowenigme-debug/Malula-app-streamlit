@@ -207,7 +207,7 @@ Et pour remercier l'école Complexe Scolaire Cardinal Malula ainsi que tous les 
 def show_image ():
     markdown ("# <u>Image</u>", unsafe_allow_html=True)
     image ("cardinal.jpg", caption= "Cardinal Malula")
-    image("Ecole.jpg", caption="Cardinal Malula")
+    image("ecole.jpg", caption="Cardinal Malula")
 
 def show_citation ():
     markdown ("# <u>Citation</u>", unsafe_allow_html=True)
