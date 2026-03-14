@@ -206,7 +206,7 @@ Et pour remercier l'école Complexe Scolaire Cardinal Malula ainsi que tous les 
 
 def show_image ():
     markdown ("# <u>Image</u>", unsafe_allow_html=True)
-    markdowm ("## Rien de grand, Rien de beau, Rien de vrai... Ne se fait sans effort et sans sacrifice")
+    write ("Rien de grand, Rien de beau, Rien de vrai... Ne se fait sans effort et sans sacrifice")
     image ("Projet_malula/cardinal.jpg", caption= "Cardinal Malula")
     image("Projet_malula/ecole.jpg", caption="Cardinal Malula")
 
