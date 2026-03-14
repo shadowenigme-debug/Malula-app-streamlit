@@ -206,16 +206,16 @@ Et pour remercier l'école Complexe Scolaire Cardinal Malula ainsi que tous les 
 
 def show_image ():
     markdown ("# <u>Image</u>", unsafe_allow_html=True)
-    image ("./cardinal.jpg", caption= "Cardinal Malula")
+    image ("Projet_malula/cardinal.jpg", caption= "Cardinal Malula")
     image("ecole.jpg", caption="Cardinal Malula")
 
 def show_citation ():
     markdown ("# <u>Citation</u>", unsafe_allow_html=True)
-    image ("./citation1.jpg", caption= "Citation Malula", width= 400)
-    image ("./citation2.jpg", caption= "Citation Malula", width= 400)
-    image ("./citation3.jpg", caption= "Citation Malula", width= 400)
-    image ("./citation4.jpg", caption= "Citation Malula", width= 400)
-    image ("./citation5.jpg", caption= "Citation Malula", width= 400)
+    image ("Projet_malula/citation1.jpg", caption= "Citation Malula", width= 400)
+    image ("Projet_malula/citation2.jpg", caption= "Citation Malula", width= 400)
+    image ("Projet_malula/citation3.jpg", caption= "Citation Malula", width= 400)
+    image ("Projet_malula/citation4.jpg", caption= "Citation Malula", width= 400)
+    image ("Projet_malula/citation5.jpg", caption= "Citation Malula", width= 400)
 
 
 
