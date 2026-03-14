@@ -3,6 +3,7 @@ set_page_config(page_title="Complexe Scolaire Cardinal Malula", layout="wide")
 
 def main():
     title("Complexe Scolaire Cardinal Malula")
+    write ("Realiser par l'élève ALAMAZANI-KELA de la 4 sc A")
     menu = ["Découvrir le cardinal Malula", "1. Biographie", "2. Pensée", "3. Perspective", "4. Principe", "5. Ecole", "6. Remerciement", "8. Image", "9. Citation"]
     choice = sidebar.selectbox("Menu", menu)
 
