@@ -31,7 +31,7 @@ def show_biographie():
                 Il est reconnu comme un personnage passionné pour la profondeur subversive de la Parole de Jésus, solide dans la foi, et un humaniste doté d'une grande culture littéraire[réf. nécessaire]. L'un des projets mobilisateurs de son ministère fut de contribuer à la restauration du dialogue entre la dimension universelle et locale de l'Église catholique 
                                     \n\n""")
 
-    markdown("## 1. <u>jeunesse</u>", unsafe_allow_html=True)
+    markdown("## 1. <u>Jeunesse</u>", unsafe_allow_html=True)
     write ("""\n Joseph Albert Malula voit le jour le 17 décembre 1917 dans une famille catholique. Son père, Remacle Ngalula de Bena Kabindi, originaire de la province de Kasaï dans le centre du Congo, a reçu une formation de menuisier à la Colonie scolaire de Boma, dans l’ouest du Congo, école tenue alors par les Frères des écoles chrétiennes. Sa mère, Jeanne Bolumbu, vient du nord du pays (Équateur). Accueillie au pensionnat des Sœurs de la Charité de Moanda, elle apprend à lire, à écrire et à coudre. C’est dans la province du Bas-Congo, durant leurs années de formation, que Remacle et Joanne se rencontrent et se marient à la mission catholique de Kangu au Mayombe avant de s'installer à Léopoldville
 En 1934, à la suite de l'érection du nouveau vicariat apostolique du Mayombe et de sa séparation du vicariat de Léopoldville, Malula est transféré au séminaire de Bolongo dans le nord du Congo[1].
 
@@ -44,7 +44,7 @@ Durant sa formation, il développa rapidement un goût très prononcé pour la l
 En 1944, Joseph achève ses études de théologie. Après une année de stage au petit séminaire de Bokoro, il est ordonné prêtre le 9 juin 1946 au stade Reine-Astrid de Léopoldville en compagnie de son condisciple et ami, Eugène Moke.
         \n\n """)
 
-    markdown ("## 2. <u>Resumer de son Parcour</u>", unsafe_allow_html=True)
+    markdown ("## 2. <u>Resumez de son Parcours</u>", unsafe_allow_html=True)
     write ("""\n joseph-Albert Malula est né le 17 décembre 1917 à Léopoldville (Aujourd'hui kinshasa). après sa formation au seminaire, il est ordonné prêtre le 9 juin 1946. il consacre sa vie au service de l'église et de l'éducation des fidèles.
 
 En 1959, il est nommé évêque auxiliaire de Léopoldville et reçoit la consécration épiscopale le 20 septembre 1959. Quelques années plus tard, en 1964, il dévient archêveque de kinshasa, ce qui fait de lui l'un des principaux responsables de l'église catholiqueau congo.
@@ -63,12 +63,12 @@ def show_pensee():
     write ("""Les pensées du Cardinal Malula étaient profondément influencées par son expérience personnelle et son engagement dans la vie religieuse et politique de la République Démocratique du Congo. Il a été un fervent défenseur de l'identité congolaise et des valeurs africaines au sein de la communauté catholique. Malula a également été impliqué dans des pratiques d'inculturation, cherchant à rendre la foi catholique authentiquement africaine. Son travail a été largement documenté, avec plus de 750 documents publiés en plusieurs volumes. Malula a été un penseur et un acteur clé dans la lutte pour l'indépendance et l'autonomie congolaise, et ses discours et actions ont eu un impact significatif sur le pays et la communauté catholique.
         \n\n """)
 
-    markdown ("## 1. <u>la dignité de l'homme africain et l'inculturation de la foi</u>", unsafe_allow_html=True)
+    markdown ("## 1. <u>La dignité de l'homme africain et l'inculturation de la foi</u>", unsafe_allow_html=True)
     write ("""Malula pensais que l'église devait défendre la dignité eet la liberté du peuples africain. pour lui, chaque personne est créée à l'image de Dieu et mérite respect, justice et consideration.
 il croyait que la foi chrétienne devait s'éxprimee à travers la culture africaine. il encourageait les chrétiens à vivre l'évangile sans renoncer à lleurs traditions positives. c'est dans cette esprit qu'il a soutenu le développement des communautés ecclésiales vivantes (CEV).
 \n\n """)
 
-    markdown("## 2. <u>l'imporrtance de l'éducation et l'église au services de la société</u> ", unsafe_allow_html=True)
+    markdown("## 2. <u>L'imporrtance de l'éducation et l'église au services de la société</u> ", unsafe_allow_html=True)
     write ("""Le cardinal Malula pensait que l'éducation est essentielle pour le développement de l'homme et de la société. selon lui, l'école doit former non seulement l'intelligence, mais aussi la conscience morale et spirituelle.
 Pour Malula, l'église ne devait pas rester silencieusement face aux injustices. Elle devait défendre la vérité, la justice et la paix, même lorsque cela demandait du courage face au pouvoir politique.         
    """)
@@ -169,7 +169,7 @@ Cet environnement favorise un climat de travail serein et un rendement de qualit
 -Le Complexe est donc non seulement un lieu d’enseignement académique mais aussi un centre de formation intégrale des jeunes, en accord avec sa vision centrée sur l’excellence et l’épanouissement des élèves. 
 \n\n """)
 
-    markdown ("## 4. <u>information sur le complexe cardinale Malula \n</u>", unsafe_allow_html=True)
+    markdown ("## 4. <u>Information sur le complexe cardinale Malula \n</u>", unsafe_allow_html=True)
     write ("""Composition
 Le complexe scolaire cardinal Malula est une grande institution estudiantine de la ville Province de Kinshasa. Situé à la commune de Limete, dans la concession de la maison des Sœurs de Sainte Thérèse de l’Enfant Jésus de Kinshasa.
 
@@ -202,7 +202,7 @@ def show_remerciement ():
 
 Et pour remercier l'école Complexe Scolaire Cardinal Malula ainsi que tous les enseignants qui m'ont poussé à donner le meilleur de moi-même, je tiens à exprimer ma profonde reconnaissance pour leur accompagnement, leur patience et leur engagement envers notre réussite. Grâce à leur dévouement et à leur savoir-faire, j'ai pu développer mes compétences et atteindre des objectifs que je n'aurais pas pu envisager seul.
   """)
-    markdown ("### <u>Je vous remercie</u>", unsafe_allow_html=True)
+    markdown ("### Je vous remercie", unsafe_allow_html=True)
 
 def show_image ():
     markdown ("# <u>Image</u>", unsafe_allow_html=True)
