@@ -3,7 +3,7 @@ set_page_config(page_title="Complexe Scolaire Cardinal Malula", layout="wide")
 
 def main():
     title("Complexe Scolaire Cardinal Malula")
-    menu = ["Découvrir le cardinal", "1. Biographie", "2. Pensée", "3. Perspective", "4. Principe", "5. Ecole", "6. Remerciement", "8. Image", "9. Citation"]
+    menu = ["Découvrir le cardinal Malula", "1. Biographie", "2. Pensée", "3. Perspective", "4. Principe", "5. Ecole", "6. Remerciement", "8. Image", "9. Citation"]
     choice = sidebar.selectbox("Menu", menu)
 
     if choice == "1. Biographie":
@@ -149,7 +149,7 @@ def show_ecole():
     markdown("## 1. <u>Localisation et infrastructure</u>", unsafe_allow_html=True)
     write ("""Situé dans la commune de Limete, le complexe se trouve dans la concession de la maison des Sœurs de Sainte Thérèse de l’Enfant Jésus de Kinshasa. Il est composé de trois grandes directions :
 Maternelle : encadre les enfants de 3 à 5 ans avec 13 salles de classe et des éducatrices qualifiées.
-Primaire (Primaire 1 & 2) : chaque direction dispose de 24 classes, fonctionnant en vacations matinales (7h30-12h30) et après-midi (12h45-17h00) pour une gestion optimale des effectifs.
+Primaire (Primaire 1 & 2) : chaque direction dispose de 24 classes, fonctionnant en une seule vacations matinales (7h30-12h30) pour une gestion optimale des effectifs.
 Humanités : couvre le secondaire de la 7e à la 6e humanités avec des sections scientifiques (math-physique et bio-chimie), littéraires et commerciales, visant à préparer les élèves au monde universitaire de manière approfondie  
 \n\n """)
 
@@ -177,7 +177,7 @@ Composé de 3 grandes directions, notamment la maternelle, les primaires 1 et 2,
 
 • La direction de la maternelle encadre trois tranches d’âge, à savoir les 3 ans, les 4 ans et les 5 ans. Avec un total de 13 salles de classes, chaque salle de classe est dirigée par des éducatrices assidues et dévouées à leurs tâches.
 
-• Les directions du Primaire (1 & 2), disposant d’une grande capacité d’accueil, le complexe scolaire cardinal Malula a opté pour une gestion de deux directions de primaire qui fonctionnent de manière autonome. Composée de 24 classes par direction, les études se donnent suivant les vacations avant et après-midi, soit de 7h30 à 12h30 et de 12h45 à 17h00’. 
+• Les directions du Primaire (1 & 2), disposant d’une grande capacité d’accueil, le complexe scolaire cardinal Malula a opté pour une gestion de deux directions de primaire qui fonctionnent de manière autonome. Composée de 24 classes par direction, les études se donnent suivant les vacations avant et après-midi, soit de 7h30 à 12h30. 
 \n\n """)
 
     markdown("## 5. <u>Origine \n</u>", unsafe_allow_html=True)
